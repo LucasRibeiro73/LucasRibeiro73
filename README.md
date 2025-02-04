@@ -86,6 +86,14 @@ LinkBio profissional desenvolvido para centralizar e organizar minha presença d
 **Deploy:** Netlify
 🔗 [Ver Projeto](https://linkbiolucasribeirodev.netlify.app/)
 
+### 📝 Formulário Interativo de Tela Única
+Formulário dinâmico e elegante projetado para oferecer uma experiência fluida e prática em uma única tela. Desenvolvido com HTML, CSS e JavaScript, oferece transições suaves e interatividade inteligente, permitindo que os usuários preencham os campos de forma simples e direta. A interface é otimizada para todos os dispositivos, garantindo acessibilidade e eficiência. Ideal para coleta de dados ou inscrição rápida.
+
+**Tecnologias:** HTML5, CSS3, JavaScript
+**Features:** Design Responsivo, Transições Animadas, Validação de Campos, Feedback Visual
+**Deploy:** Netlify
+🔗 [Ver Projeto](https://forms-interativo.netlify.app/)
+
 ## 📫 Como me encontrar
 
 - LinkedIn: [Lucas Ribeiro](https://www.linkedin.com/in/lucas-ribeiro-7218a0153/)
