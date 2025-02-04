@@ -86,9 +86,6 @@ LinkBio profissional desenvolvido para centralizar e organizar minha presença d
 **Deploy:** Netlify
 🔗 [Ver Projeto](https://linkbiolucasribeirodev.netlify.app/)
 
-### 💡 Projeto 3
-Descrição breve do projeto, tecnologias utilizadas e resultados alcançados.
-
 ## 📫 Como me encontrar
 
 - LinkedIn: [Lucas Ribeiro](https://www.linkedin.com/in/lucas-ribeiro-7218a0153/)
