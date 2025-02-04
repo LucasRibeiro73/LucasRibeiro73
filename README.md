@@ -92,6 +92,7 @@ Descrição breve do projeto, tecnologias utilizadas e resultados alcançados.
 ## 📫 Como me encontrar
 
 - LinkedIn: [Lucas Ribeiro](https://www.linkedin.com/in/lucas-ribeiro-7218a0153/)
+- Instagram: [Lucas Ribeiro | Dev ](https://www.instagram.com/dev.lucasribeiro/)
 - Email: Lucas.mribeiro.dev@gmail.com
 - Portfolio: [Lucas Ribeiro | Dev](https://lucasribeirodev.netlify.app/)
 
