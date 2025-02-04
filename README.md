@@ -78,8 +78,13 @@ Portfolio profissional desenvolvido com HTML, CSS e JavaScript, apresentando uma
 **Deploy:** Netlify
 🔗 [Ver Projeto](https://lucasribeirodev.netlify.app/)
 
-### 🌟 Projeto 2
-Descrição breve do projeto, tecnologias utilizadas e resultados alcançados.
+### 🌟 LinkBio Personalizado
+LinkBio profissional desenvolvido para centralizar e organizar minha presença digital de forma elegante e eficiente. Projetado com HTML e CSS, oferece uma experiência visual única com gradientes suaves e animações sutis. Interface intuitiva que facilita o acesso a todos os meus links importantes, desde redes sociais até portfolio e contatos profissionais.
+
+**Tecnologias:** HTML5, CSS3, JavaScript, Git
+**Features:** Design Responsivo, Animações Personalizadas, Dark Mode, Formulário de Contato
+**Deploy:** Netlify
+🔗 [Ver Projeto](https://linkbiolucasribeirodev.netlify.app/)
 
 ### 💡 Projeto 3
 Descrição breve do projeto, tecnologias utilizadas e resultados alcançados.
