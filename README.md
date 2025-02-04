@@ -70,8 +70,13 @@ const skills = {
 
 ## 🛠️ Projetos Destacados
 
-### 🚀 Projeto 1
-Descrição breve do projeto, tecnologias utilizadas e resultados alcançados.
+### 🚀 Portfolio Pessoal
+Portfolio profissional desenvolvido com HTML, CSS e JavaScript, apresentando uma interface moderna e responsiva. Implementei animações suaves para melhorar a experiência do usuário, seções interativas para projetos e habilidades, e formulário de contato integrado. O design minimalista e elegante reflete minha identidade profissional, com otimização para performance e SEO.
+
+**Tecnologias:** HTML5, CSS3, JavaScript, Git
+**Features:** Design Responsivo, Animações Personalizadas, Dark Mode, Formulário de Contato
+**Deploy:** Netlify
+🔗 [Ver Projeto](https://lucasribeirodev.netlify.app/)
 
 ### 🌟 Projeto 2
 Descrição breve do projeto, tecnologias utilizadas e resultados alcançados.
