@@ -1,110 +1,35 @@
-# Olá! 👋 Sou um Desenvolvedor Fullstack
+# Hi, I'm Lucas Ribeiro 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-ribeiro-7218a0153/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://lucasribeirodev.netlify.app/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucas.mribeiro.dev@gmail.com)
+**Backend Engineer** · TypeScript · Node.js · NestJS · Payments
+📍 Curitiba, Brazil (UTC-3)
 
-## 👨‍💻 Sobre Mim
+I work on payment systems at **Grupo Boticário**, one of Brazil's largest beauty companies. I'm responsible for the card payment (TEF/POS) stack used by **1,400+ retail stores** across the country: integrations, production troubleshooting and observability.
 
-Desenvolvedor Fullstack com mais de 3 anos de experiência em uma multinacional, e mais de 5 anos de forma autonoma, apaixonado por criar soluções robustas e escaláveis. Certificado em Scrum (SFC), com forte conhecimento em arquitetura limpa e práticas de desenvolvimento ágil.
+## What I've been working on
 
-Busco constantemente aprendizado e evolução, seguindo um roadmap estruturado das principais tecnologias do mercado.
+- **Payments (TEF/POS):** responsible for the payment terminal operation of 1,400+ stores as part of the payment support team, from integration issues to production incidents.
+- **Observability:** built New Relic dashboards to monitor TEF (SiTef) transactions and spot failures before they reach the stores.
+- **Integrations:** developed ServiceNow applications and integrations with Salesforce and Kanbanize.
+- **Automation:** built Python bots and dashboards that automated repetitive support operations.
+- **Backend:** REST APIs with Node.js, NestJS and TypeScript.
 
-## 🚀 Habilidades Técnicas
+## Tech stack
 
-### Linguagens & Frameworks
-```javascript
-const skills = {
-    frontend: ['HTML5', 'CSS3', 'JavaScript'],
-    backend: ['Ruby', 'NodeJs'],
-    architectures: ['Clean Architecture', 'Hexagonal Architecture', 'Object-Oriented Programming'],
-    tools: ['PostMan', 'NewRelic'],
-    messaging: ['Apache Kafka'],
-    api: ['REST', 'RESTful'],
-    agile: ['Scrum (SFC Certified)']
-    DB: ['MySQL', 'PostGreSQL']
-}
-```
+| Area | Tools |
+| --- | --- |
+| Languages | TypeScript, JavaScript, Python, SQL |
+| Backend | Node.js, NestJS, REST APIs, Apache Kafka |
+| Databases | PostgreSQL, MySQL |
+| Cloud & DevOps | AWS, Docker, Git |
+| Observability | New Relic |
+| Practices | Clean Architecture, Hexagonal Architecture, Scrum |
 
-### 💼 Experiência Profissional
+## Certifications
 
-🏢 **Multinacional** | Desenvolvedor Fullstack
-- Desenvolvimento e manutenção de aplicações de larga escala
-- Implementação de arquitetura limpa e padrões de projeto
-- Integração com sistemas
-- Design e desenvolvimento de APIs REST/RESTful
-- Monitoramento e otimização de performance com NewRelic
-- ServiceNow Developer
-- Kanbanize Integrations
-- SalesForce Integrations
+- AWS: Generative AI
+- ServiceNow Citizen Developer
+- Scrum Foundation Certified (SFC)
 
-## 📈 Estatísticas GitHub
+## Contact
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=LucasRibeiro73&show_icons=true&theme=dracula)
-
-## 🎯 Objetivos 2025
-
-- [ ] Aprofundar conhecimentos em arquiteturas escaláveis
-- [ ] Expandir expertise em microsserviços
-- [ ] Dominar novas tecnologias do roadmap
-- [ ] Contribuir para projetos open source
-- [ ] Compartilhar conhecimento através de artigos técnicos
-
-## 📚 Roadmap de Aprendizagem
-
-### Em Progresso
-- TypeScript
-- React.js
-- Python
-- Docker
-- AWS Cloud
-- MongoDB
-
-### Próximos Passos
-- Java
-- Vue.js
-- GraphQL
-- Kubernetes
-- Machine Learning Basics
-- Azure Pipelines
-
-## 🛠️ Projetos Destacados
-
-### 🚀 Portfolio Pessoal
-Portfolio profissional desenvolvido com HTML, CSS e JavaScript, apresentando uma interface moderna e responsiva. Implementei animações suaves para melhorar a experiência do usuário, seções interativas para projetos e habilidades, e formulário de contato integrado. O design minimalista e elegante reflete minha identidade profissional, com otimização para performance e SEO.
-
-**Tecnologias:** HTML5, CSS3, JavaScript, Git
-**Features:** Design Responsivo, Animações Personalizadas, Dark Mode, Formulário de Contato
-**Deploy:** Netlify
-🔗 [Ver Projeto](https://lucasribeirodev.netlify.app/)
-
-### 🌟 LinkBio Personalizado
-LinkBio profissional desenvolvido para centralizar e organizar minha presença digital de forma elegante e eficiente. Projetado com HTML e CSS, oferece uma experiência visual única com gradientes suaves e animações sutis. Interface intuitiva que facilita o acesso a todos os meus links importantes, desde redes sociais até portfolio e contatos profissionais.
-
-**Tecnologias:** HTML5, CSS3, JavaScript, Git
-**Features:** Design Responsivo, Animações Personalizadas, Dark Mode, Formulário de Contato
-**Deploy:** Netlify
-🔗 [Ver Projeto](https://linkbiolucasribeirodev.netlify.app/)
-
-### 📝 Formulário Interativo de Tela Única
-Formulário dinâmico e elegante projetado para oferecer uma experiência fluida e prática em uma única tela. Desenvolvido com HTML, CSS e JavaScript, oferece transições suaves e interatividade inteligente, permitindo que os usuários preencham os campos de forma simples e direta. A interface é otimizada para todos os dispositivos, garantindo acessibilidade e eficiência. Ideal para coleta de dados ou inscrição rápida.
-
-**Tecnologias:** HTML5, CSS3, JavaScript
-**Features:** Design Responsivo, Transições Animadas, Validação de Campos, Feedback Visual
-**Deploy:** Netlify
-🔗 [Ver Projeto](https://forms-interativo.netlify.app/)
-
-## 📫 Como me encontrar
-
-- LinkedIn: [Lucas Ribeiro](https://www.linkedin.com/in/lucas-ribeiro-7218a0153/)
-- Instagram: [Lucas Ribeiro | Dev ](https://www.instagram.com/dev.lucasribeiro/)
-- Email: Lucas.mribeiro.dev@gmail.com
-- Portfolio: [Lucas Ribeiro | Dev](https://lucasribeirodev.netlify.app/)
-
-## 📊 Linguagens Mais Utilizadas
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasRibeiro73&layout=compact&theme=dracula)
-
----
-
-💬 *"O verdadeiro progresso é aquele que coloca a tecnologia ao alcance de todos."*
+[LinkedIn](https://www.linkedin.com/in/lucas-ribeiro-7218a0153/) · [lucas.mribeiro.dev@gmail.com](mailto:lucas.mribeiro.dev@gmail.com)
